@@ -10,14 +10,40 @@
    ========================================================================== */
 
 window.CERTIFICATIONS = [
-  { title: "Agentic AI", issuer: "DeepLearning.AI", status: "in-progress" },
-  { title: "Machine Learning in Production", issuer: "DeepLearning.AI", status: "in-progress" },
-  { title: "Fast Prototyping of GenAI Apps with Streamlit", issuer: "DeepLearning.AI", status: "in-progress" },
-  { title: "Data Analytics", issuer: "DeepLearning.AI", status: "planned" },
-  { title: "Machine Learning Specialization", issuer: "DeepLearning.AI", status: "planned" }
-
-  /* Example of a finished entry:
-  { title: "Agentic AI", issuer: "DeepLearning.AI", status: "completed", year: "2026",
-    credentialUrl: "https://www.coursera.org/account/accomplishments/verify/XXXX" },
-  */
+  {
+    title: "Agentic AI",
+    issuer: "DeepLearning.AI",
+    status: "completed",
+    year: "2026",
+    credentialUrl: "https://www.deeplearning.ai/certificates/f1212d97-5160-4263-b352-47d4138d440b"
+  },
+  {
+    title: "Machine Learning in Production",
+    issuer: "DeepLearning.AI",
+    status: "completed",
+    year: "2026",
+    credentialUrl: "https://www.deeplearning.ai/certificates/6bf0658a-e7d0-4db9-9db7-0b1d3afefda6"
+  },
+  {
+    title: "Supervised Machine Learning: Regression and Classification",
+    issuer: "DeepLearning.AI",
+    status: "completed",
+    year: "2026",
+    credentialUrl: "https://www.deeplearning.ai/certificates/5630a03e-fd76-4015-8a5f-cf65b257de8c"
+  },
+  {
+    title: "Fast Prototyping of GenAI Apps with Streamlit",
+    issuer: "DeepLearning.AI",
+    status: "in-progress"
+  },
+  {
+    title: "Data Analytics",
+    issuer: "DeepLearning.AI",
+    status: "planned"
+  },
+  {
+    title: "Machine Learning Specialization",
+    issuer: "DeepLearning.AI",
+    status: "planned"
+  }
 ];
